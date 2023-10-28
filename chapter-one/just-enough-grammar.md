@@ -1,22 +1,22 @@
-# Just enough grammar (optional)
+# Достаточный уровень грамматики (необязательная глава)
 > Время прочтения: 10 минут
 
-This unit provides just enough grammar to understand the remainder of the course. If you already know some grammar, move on to Words. Otherwise, read on.
+В этом модуле грамматики достаточно, чтобы понять оставшуюся часть курса. Если вы уже немного знаете грамматику, переходите к главе [слова](./todo.md). В противном случае читайте дальше.
 
-For simplicity's sake, this unit takes a few shortcuts; grammatical topics are actually wildly more complicated than this unit suggests.
+Для простоты в этой главе используются несколько сокращений; грамматические темы на самом деле намного сложнее, чем представлено в этом модуле.
 
-Grammarians don't all agree on the number or types of parts of speech. The following table focuses on the parts of speech relevant to this course:
+Не все лингвисты пришли к единому мнению относительно количества или типов частей речи. В следующей таблице представлены части речи, относящиеся к этому курсу:
 
-| Part of Speech | Definition                                           | Example                                        |
-|----------------|------------------------------------------------------|------------------------------------------------|
-| Noun           | a person, place, concept, or thing                   | Sam runs races.                                |
-| Pronoun        | a noun that replaces another noun (or larger structure) | Sam runs races. He likes to compete.           |
-| Adjective      | a word or phrase that modifies a noun                | Sam wears blue shoes.                          |
-| Verb           | an action word or phrase                             | Sam runs races.                                |
-| Adverb         | a word or phrase that modifies a verb, an adjective, or another adverb | Sam runs slowly.                             |
-| Preposition    | a word or phrase specifying the positional relationship of two nouns | Sam's sneakers are seldom on his shelf.     |
-| Conjunction    | a word that connects two nouns or phrases            | Sam's trophies and ribbons live only in his imagination. |
-| Transition     | a word or phrase that connects two sentences         | Sam runs races weekly. However, he finishes races weakly. |
+| Часть речи     | Определение                                                            | Пример                                        |
+|----------------|------------------------------------------------------------------------|-----------------------------------------------|
+| Noun           | a person, place, concept, or thing                                     | Sam runs races.                               |
+| Pronoun        | a noun that replaces another noun (or larger structure)                | Sam runs races. He likes to compete.          |
+| Adjective      | a word or phrase that modifies a noun                                  | Sam wears blue shoes.                         |
+| Verb           | an action word or phrase                                               | Sam runs races.                               |
+| Adverb         | a word or phrase that modifies a verb, an adjective, or another adverb | Sam runs slowly.                              |
+| Preposition    | a word or phrase specifying the positional relationship of two nouns   | Sam's sneakers are seldom on his shelf.       |
+| Conjunction    | a word that connects two nouns or phrases                              | Sam's trophies and ribbons live only in his imagination. |
+| Transition     | a word or phrase that connects two sentences                           | Sam runs races weekly. However, he finishes races weakly. |
 
 
 ## Nouns
