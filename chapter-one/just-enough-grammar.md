@@ -9,14 +9,14 @@
 
 | Часть речи     | Определение                                                            | Пример                                        |
 |----------------|------------------------------------------------------------------------|-----------------------------------------------|
-| Noun           | a person, place, concept, or thing                                     | Sam runs races.                               |
-| Pronoun        | a noun that replaces another noun (or larger structure)                | Sam runs races. He likes to compete.          |
-| Adjective      | a word or phrase that modifies a noun                                  | Sam wears blue shoes.                         |
-| Verb           | an action word or phrase                                               | Sam runs races.                               |
-| Adverb         | a word or phrase that modifies a verb, an adjective, or another adverb | Sam runs slowly.                              |
-| Preposition    | a word or phrase specifying the positional relationship of two nouns   | Sam's sneakers are seldom on his shelf.       |
-| Conjunction    | a word that connects two nouns or phrases                              | Sam's trophies and ribbons live only in his imagination. |
-| Transition     | a word or phrase that connects two sentences                           | Sam runs races weekly. However, he finishes races weakly. |
+| Существительное| человек, место, концепция или вещь                                     | **Сэм** участвует в **гонках**.               |
+| Местоимение    | существительное, заменяющее другое существительное                     | **Ему** нравится побеждать.                   |
+| Прилагательное | слово описывающее существительное                                      | Сэм носит **синие** шорты.                    |
+| Глагол         | слово означающее действие                                              | Сэм **участвует** в гонках.                   |
+| Наречие        | a word or phrase that modifies a verb, an adjective, or another adverb | Sam runs slowly.                              |
+| Предлог        | a word or phrase specifying the positional relationship of two nouns   | Sam's sneakers are seldom on his shelf.       |
+| Союз           | a word that connects two nouns or phrases                              | Sam's trophies and ribbons live only in his imagination. |
+| Связующее      | a word or phrase that connects two sentences                           | Sam runs races weekly. However, he finishes races weakly. |
 
 
 ## Nouns
