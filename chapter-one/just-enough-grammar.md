@@ -1,5 +1,5 @@
 # Just enough grammar (optional)
-> Estimated Time: 10 minutes
+> Время прочтения: 10 минут
 
 This unit provides just enough grammar to understand the remainder of the course. If you already know some grammar, move on to Words. Otherwise, read on.
 
