@@ -16,7 +16,7 @@
 Google предоставляет все материалы, необходимые для проведения очных занятий в вашей организации. Если вы хотите провести аудиторные занятия для своей организации, см. раздел [«Содействие курсам по technical writing»](https://developers.google.com/tech-writing/for-instructors).
 
 > [!NOTE]
-> Note: Google иногда проводит бесплатные очные занятия, открытые для широкой публики. См. более деталей в [Анонсах](https://developers.google.com/tech-writing/announcements).
+> Note: Google иногда проводит бесплатные очные занятия, открытые для широкой публики. Подробнее в [анонсах](https://developers.google.com/tech-writing/announcements).
 
 При написании _Technical Writing Глава 1_ и _Technical Writing Глава 2_ мы целились в аудиторию:
 - Инженеры-программисты
