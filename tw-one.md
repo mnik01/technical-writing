@@ -10,34 +10,36 @@
 Technical Writing Глава 1 научит вас писать более понятную техническую документацию.
 
 ## Целевая аудитория
-Чтобы пройти этот курс, вам нужно хотя бы на базовом уровне владеть письмом на русском языке.
+Чтобы пройти этот курс, вам нужно уметь писать на русском языке и уметь, хотя бы на базовом уровне, писать и читать на английском.
+
+
 
 Если вы никогда не проходили обучение technical writing, этот курс идеально вам подойдет. Если вы уже проходили обучение по technical writing, этот курс освежит вашу память и может повысить уровень квалификации.
 
 ## Цели обучения
 Этот курс научит вас основам технического письма. После прохождения этого курса вы будете знать, как делать следующее:
 
-- Use terminology—including abbreviations and acronyms—consistently.
-Recognize ambiguous pronouns.
-Distinguish active voice from passive voice.
-Convert passive voice sentences to active voice.
-Identify three ways in which active voice is superior to passive voice.
-Develop at least three strategies to make sentences clearer and more engaging.
-Develop at least four strategies to shorten sentences.
-Understand the difference between bulleted lists and numbered lists.
-Create helpful lists.
-Create effective lead sentences for paragraphs.
-Focus each paragraph on a single topic.
-State key points at the start of each document.
-Identify your target audience.
-Determine what your target audience already knows and what your target audience needs to learn.
-Understand the curse of knowledge.
-Identify and revise idioms.
-State your document's scope (goals) and audience.
-Break long topics into appropriate sections.
-Use commas, parentheses, colons, em dashes, and semicolons properly.
-Develop beginner competency in Markdown.
-It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
+- Последовательно использовать терминологию, включая сокращения и акронимы.
+- Распознавать неоднозначные местоимения.
+- Отличайте активный залог от пассивного залога.
+- Convert passive voice sentences to active voice.
+- Identify three ways in which active voice is superior to passive voice.
+- Develop at least three strategies to make sentences clearer and more engaging.
+- Develop at least four strategies to shorten sentences.
+- Understand the difference between bulleted lists and numbered lists.
+- Create helpful lists.
+- Create effective lead sentences for paragraphs.
+- Focus each paragraph on a single topic.
+- State key points at the start of each document.
+- Identify your target audience.
+- Determine what your target audience already knows and what your target audience needs to learn.
+- Understand the curse of knowledge.
+- Identify and revise idioms.
+- State your document's scope (goals) and audience.
+- Break long topics into appropriate sections.
+- Use commas, parentheses, colons, em dashes, and semicolons properly.
+- Develop beginner competency in Markdown.
+- It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
 
 ## Pre-class and in-class components
 The course consists of the following two components:
