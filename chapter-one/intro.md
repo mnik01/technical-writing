@@ -2,6 +2,21 @@
 
 Глава 1 научит вас писать более понятную техническую документацию.
 
+Содержание главы:
+1. **Introduction** (3 min)
+2. **Just enough grammar (optional)** (10 min)
+3. **Words** (10 min)
+4. **Active voice** (15 min)
+5. **Clear sentences** (10 min)
+6. **Short sentences** (20 min)
+7. **Lists and tables** (15 min)
+8. **Paragraphs** (10 min)
+9. **Audience** (10 min)
+10. **Documents** (10 min)
+11. **Punctuation (optional)** (5 min)
+12. **Markdown** (variable)
+13. **Summary** (1 min)
+
 ## Целевая аудитория
 Чтобы пройти этот курс, вам нужно уметь писать на русском языке и уметь, хотя бы на базовом уровне, писать и читать на английском.
 
