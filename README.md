@@ -1,6 +1,9 @@
 # Technical writing 
 > Оригинал - https://developers.google.com/tech-writing/overview
 
+> Прогресс перевода ![](https://geps.dev/progress/12)
+
+
 ## Обзор курса technical writing 
 Данная таблица представляет курсы по technical writing:
 
