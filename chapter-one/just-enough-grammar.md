@@ -21,20 +21,20 @@
 
 ## Существительные 
 
-Nouns represent people, places, or things. Judy, Antarctica, and hammers are all nouns, but so are intangible concepts like robustness and perfection. In the following example passage, we've formatted the nouns in bold:
+Существительные обозначают людей, места или вещи. Такие слова как "Ваня", "Антарктида" и "Молотки" -- существительные, но еще это могут быть и абстрактные вещи. Например: "Идеал", "Надежность". В приведённом ниже тексте мы выделили существительные жирным шрифтом:
 
-> In the framework, an object must copy any underlying values that the object wants to change. The protos in the codebase are huge, so copying the protos is unacceptably expensive.
+> В данном **фреймворке**, **объект** должен копировать любые **значения**, которые нужны этому **объекту**. **Прототипы** **объектов** слишком большие, поэтому копировать их будет слишком затратно. 
 
-In programming, you might think of classes and variables as your program's nouns.
+В программировании вы можете воспринимать классы и переменные как существительные вашей программы.
 
-### Exercise
-Identify the six nouns in the following passage:
+### Упражнение
+Определите шесть существительных в следующем отрывке текста:
 
-> C enables programmers to control pointers and memory. Great power brings great responsibility.
+> C даёт программистам контроль над указателями и памятью. С большой силой приходит большая ответственность.
 
 <details>
 
-<summary>See the answer</summary>
+<summary>Посмотреть ответ</summary>
 
 You can find the nouns in boldface:
 > C enables programmers to control pointers and memory. Great power brings great responsibility.
