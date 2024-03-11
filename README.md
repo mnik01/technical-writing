@@ -1,7 +1,7 @@
 # Technical writing | Адаптация курса на русский 
 > Оригинал - https://developers.google.com/tech-writing/overview
 
-> Прогресс перевода ![](https://geps.dev/progress/8)
+> Прогресс перевода ![](https://geps.dev/progress/9)
 
 
 ## Обзор курса technical writing 
